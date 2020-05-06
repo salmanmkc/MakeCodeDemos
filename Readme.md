@@ -4,3 +4,4 @@ Check out MakeCode here: [MakeCode](https://makecode.microbit.org/)
 You can paste the code from each file directly in the [MakeCode Editor](https://makecode.microbit.org/#editor)
 
 Navigate to each folder to find different scripts.
+[Games](games)
