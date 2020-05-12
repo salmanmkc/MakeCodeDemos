@@ -2,6 +2,7 @@
 
 # Flower Trail
 In this program we are going to make a flower trail that follows you wherever you walk! </br>
+A video tutorial is available here: https://youtu.be/5AaRZx1Y4EU
 ![Flower trail](/Assets/Minecraft/Flower%20Trail/Flower%20Trail%20Example.png)
 
 ## Step 1
