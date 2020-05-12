@@ -17,5 +17,5 @@ Navigate to 'Blocks' on the side panel (1) and find 'place *grass block* at ~0 ~
  ![Place Blocks](/Assets/Minecraft/Flower%20Trail/Blocks%20Place.png)
 
  ## Step 4
- Change the *grass block* to be a Dandelion. It should look like below.</br>
+ Change the *grass block* to be a Dandelion. It should look like below. You can now walk around and then look behind you to see if you should have a trail of dandelions following you. If you walk backwards you should be able to see them appearing infront of you.</br>
  ![Code snippet 1](/Assets/Minecraft/Flower%20Trail/Code%20Snippet%201.png)
