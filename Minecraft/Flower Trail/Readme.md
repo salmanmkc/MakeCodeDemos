@@ -41,6 +41,13 @@ Walk around and you should see a row of all flowers following you!
 ## Optional Experiment
 Try change the movement type from walk!
 
+## Python Code
+    def travelled_walk():
+	    blocks.place(YELLOW_FLOWER, pos(1,  0,  0))
+	    blocks.place(OXEYE_DAISY, pos(0,  0,  0))
+	    blocks.place(BLUE_ORCHID, pos(-1,  0,  0))
+    player.on_travelled(WALK, travelled_walk)
+
 ## JavaScript Code
     player.onTravelled(WALK,  function  ()  {
 		blocks.place(YELLOW_FLOWER, pos(1,  0,  0))
