@@ -32,7 +32,7 @@ Repeat step 5, but now choose a flower of your choice, e.g. Blue Orchid. Then tr
 If you walk around you'll notice that not all flowers are placed, it does it randomly.
 You can change this by giving an offset on the x axis.
 Set the first value of the first place block to be 1 and set the first value of the final place block to be -1
-![Code snippet 4](/Assets/Minecraft/Flower%20Trail/Code%20Snippet%203.png)
+![Code snippet 4](/Assets/Minecraft/Flower%20Trail/Code%20Snippet%204.png)
 
 ## Step 8
 Walk around and you should see a row of all flowers following you!
