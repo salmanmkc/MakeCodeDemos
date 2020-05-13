@@ -5,6 +5,8 @@ In this repository you will be able to find sample code in JavaScript/Python whi
 Check out MakeCode here: [MakeCode](https://makecode.microbit.org/)
 You can paste the code from each file directly in the [MakeCode Editor](https://makecode.microbit.org/#editor) or the Minecraft Code Builder!
 
+MakeCode is available on [Minecraft Edition](https://education.minecraft.net/)
+
 Navigate to each folder to find different scripts.
 - [Tutorials](https://github.com/salmanmkc/MakeCodeJsScripts/tree/master/Arcade/Tutorials)
 - [Games](https://github.com/salmanmkc/MakeCodeJsScripts/tree/master/Arcade/Games)
