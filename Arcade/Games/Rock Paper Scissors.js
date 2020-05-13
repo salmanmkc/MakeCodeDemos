@@ -1,4 +1,5 @@
 # Rock Paper Scissors game, play with with a friend!
+# Video demonstration: https://youtu.be/rZbBA2jQ_ak
 
 let hand = 0
 input.onGesture(Gesture.Shake, function () {
