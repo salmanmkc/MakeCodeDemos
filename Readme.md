@@ -19,4 +19,5 @@ MakeCode links:
 - [MakeCode on Twitter](https://twitter.com/MSMakeCode)
 - [MakeCode on Instagram](https://www.instagram.com/makecode/)
 
+Check out the [Microsoft Build Student Zone](https://aka.ms/studentsatbuild)
 
